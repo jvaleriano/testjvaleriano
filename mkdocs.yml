@@ -1,0 +1,8 @@
+site_name: "jvalerianoTest"
+site_description: "JvalerianoTest"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
